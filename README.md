@@ -27,8 +27,3 @@ ReactJS | Next.js | JavaScript | TypeScript | Express | GraphQL | NodeJS | AWS |
 | DeFi | Solidity | Smart Contract | React Native | Electron
 ### What I'm focusing on 👨‍💻
 Website and dapp development using JavaScript or TypeScript
-
-
-### 📫 How to reach me:
-#### My email: rioneymar644@gmail.com
-#### My skypeId: live:.cid.d995c163d3f0d178
