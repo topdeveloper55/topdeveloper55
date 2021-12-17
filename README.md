@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 
 I am a full stack developer who has more than 8 years of experiences in software development. Until now, I developed many projects including Website, Desktop app, Mobile app and dapp. My main programming language is JavaScript and TypeScript.
 While I use MERN stack in website development, Electron in desktop app, react native in mobile app.
-Especially, now I am focusing on developing dapp such as NFT projet and DeFi app because dapp is the fashion. My main tech stack in dapp development is react, web3 and solidity. In the past, I’ve experienced building enterprise website and DeFi(staking platform) app.
+Especially, now I am focusing on developing dapp such as NFT projet and DeFi app because dapp is the fashion. My main tech stack in dapp development is react, web3 and solidity. In the past, I developed NFT marketplace, NFT minting project, DeFi app and staking platform(similar to OlympusDao).
 
 ### 🔭 I’m currently working on
 
-ReactJS | Next.js | JavaScript | TypeScript | Express | GraphQL | NodeJS | AWS | Github | No Relation Database | Relation Database | Web3.js | NFT
-| DeFi | Solidity | Smart Contract | React Native | Electron
+blockchain | solidity | web3 | DeFi | NFT | React | Next | JavaScript | TypeScript | Express | GraphQL | NodeJS | AWS | Github | No Relation Database | Relation Database | React Native | Electron
 ### What I'm focusing on 👨‍💻
 Website and dapp development using JavaScript or TypeScript
