@@ -25,4 +25,4 @@ In the past, I developed NFT marketplace, NFT minting project, DEX protocol , st
 
 blockchain | solidity | hardhat | web3 | ethersJs | DeFi | NFT | React | Material UI | Redux | NextJs | Jest | Bootstrap | JavaScript | TypeScript | Node | Express | GraphQL | AWS | MongoDB | PostgreSQL | React Native | Electron | Python | Django
 ### What I'm focusing on 👨‍💻
-Website and dapp development using JavaScript or TypeScript
+Website and dapp development using JavaScript, TypeScript, Python and Solidity
