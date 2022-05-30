@@ -22,6 +22,6 @@ Especially, now I am focusing on developing dapp such as NFT projet and DeFi app
 
 ### 🔭 I’m currently working on
 
-blockchain | solidity | web3 | DeFi | NFT | React | Next | JavaScript | TypeScript | Express | GraphQL | NodeJS | AWS | Github | No Relation Database | Relation Database | React Native | Electron
+blockchain | solidity | hardhat | web3 | ethersJs | DeFi | NFT | React | Material UI | Redux | NextJs | Jest | Bootstrap | JavaScript | TypeScript | Node | Express | GraphQL | AWS | MongoDB | PostgreSQL | React Native | Electron | Python | Django
 ### What I'm focusing on 👨‍💻
 Website and dapp development using JavaScript or TypeScript
