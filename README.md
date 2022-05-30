@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, everyone.
 
-I am a full stack developer who has more than 8 years of experiences in software development. Until now, I developed many projects including Website, Desktop app, Mobile app and dapp. My main programming language is JavaScript and TypeScript.
-While I use MERN stack in website development, Electron in desktop app, react native in mobile app.
-Especially, now I am focusing on developing dapp such as NFT projet and DeFi app because dapp is the fashion. My main tech stack in dapp development is react, web3 and solidity. In the past, I developed NFT marketplace, NFT minting project, DEX platform and staking platform(similar to OlympusDao).
+I am a full stack developer who has more than 8 years of experiences in software development. Until now, I developed many projects including Website, Desktop app, Mobile app and dapp. My main programming language is JavaScript, TypeScript and python.
+While I use MERN stack in website development, Electron in desktop app, react native in mobile app. Also I am familiar with Django as backend framework.
+Especially, now I am focusing on developing dapp such as NFT projet and DeFi app because dapp is the fashion. My main tech stack in dapp development is react, web3, Node.js and solidity. 
+I am using MUI as UI kit, redux as state management, web3 and ethers module in frontend development.
+Also, using solidity, hardhat for testing and deploying in smart contract development, while using node.js, Django as backend.
+In the past, I developed NFT marketplace, NFT minting project, DEX protocol , staking platform(similar to OlympusDao), etc.
 
 ### 🔭 I’m currently working on
 
